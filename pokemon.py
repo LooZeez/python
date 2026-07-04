@@ -1,18 +1,18 @@
 import random
 
 pokemon = {
-    "Electriciachu": {
-        "hp": 200,
+    "Shruptile": {
+        "hp": 100,
         "moves": {
-            "Lightning bolt": 50,
-            "Zap": 50
+            "Shrubs": 20,
+            "Thorns": 20
         }
     },
-    "Ultramechachu": {
-        "hp": 450,
+    "Zennar": {
+        "hp": 100,
         "moves": {
-            "Power lines": 50,
-            "Electricute": 100
+            "Meditation": 10,
+            "Mind Control": 30
         }
     }
 }
